@@ -1,5 +1,7 @@
 ## JFrog Platform on Azure Workshop
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/9a42d443-2ee6-49b6-b12d-80da1f82f105.svg?orgId=604336610407)](https://app.soluble.cloud/repos/details/github.com/jefferyfry/azure-aks-workshop?orgId=604336610407)  
+
 You can find this workshop here: [https://jfrogtraining.github.io/azure-aks-workshop/](https://jfrogtraining.github.io/azure-aks-workshop/).
 
 The goal of DevOps is to allow your development teams to deliver quality software faster to your customers through continuous process improvement, leveraging the best of breed development tools and infrastructure, and utilizing software development and IT operations best practices. Your team must deliver software faster than your competitors in order to get features and fixes to your customers sooner.
